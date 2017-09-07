@@ -1,4 +1,4 @@
-package response;
+package com.adrianaden.app.response;
 
 public enum ResponseType {
 	SUCCESS(200);

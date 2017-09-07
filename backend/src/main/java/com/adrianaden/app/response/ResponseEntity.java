@@ -1,4 +1,4 @@
-package response;
+package com.adrianaden.app.response;
 
 public class ResponseEntity {
 	private int responseType;

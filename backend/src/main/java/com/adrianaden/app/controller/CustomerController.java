@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import com.adrianaden.app.model.Customer;
+import com.adrianaden.app.response.ResponseEntity;
+import com.adrianaden.app.response.ResponseType;
 import com.adrianaden.app.service.CustomerService;
-import response.ResponseEntity;
-import response.ResponseType;
 
 @CrossOrigin
 @RestController
@@ -23,6 +23,8 @@ public class CustomerController {
 	@RequestMapping(method = { RequestMethod.GET })
 	public Object findAll() {
 		List<Customer> customers = customerService.findAll();
-		return new ResponseEntity(ResponseType.SUCCESS, "berhasil",customers);
+		
+		return new ResponseEntity(ResponseType.SUCCESS, "Success get Customer", customers);
 	}
+
 }
