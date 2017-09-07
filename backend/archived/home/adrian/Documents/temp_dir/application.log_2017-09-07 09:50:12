@@ -1,0 +1,5 @@
+[34m2017-09-07 21:50:12[0;39m [localhost-startStop-1] [36m[][0;39m  [34mINFO[0;39m [33mo.s.b.w.s.ServletRegistrationBean[0;39m - Mapping servlet: 'dispatcherServlet' to [/]
+[34m2017-09-07 21:50:12[0;39m [localhost-startStop-1] [36m[][0;39m  [34mINFO[0;39m [33mo.s.b.w.s.FilterRegistrationBean[0;39m - Mapping filter: 'characterEncodingFilter' to: [/*]
+[34m2017-09-07 21:50:12[0;39m [localhost-startStop-1] [36m[][0;39m  [34mINFO[0;39m [33mo.s.b.w.s.FilterRegistrationBean[0;39m - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[34m2017-09-07 21:50:12[0;39m [localhost-startStop-1] [36m[][0;39m  [34mINFO[0;39m [33mo.s.b.w.s.FilterRegistrationBean[0;39m - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[34m2017-09-07 21:50:12[0;39m [localhost-startStop-1] [36m[][0;39m  [34mINFO[0;39m [33mo.s.b.w.s.FilterRegistrationBean[0;39m - Mapping filter: 'requestContextFilter' to: [/*]

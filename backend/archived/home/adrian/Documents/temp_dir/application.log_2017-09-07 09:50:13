@@ -1,0 +1,9 @@
+[34m2017-09-07 21:50:13[0;39m [main] [36m[][0;39m  [34mINFO[0;39m [33mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Building JPA container EntityManagerFactory for persistence unit 'default'
+[34m2017-09-07 21:50:13[0;39m [main] [36m[][0;39m  [34mINFO[0;39m [33mo.h.j.i.u.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+[34m2017-09-07 21:50:13[0;39m [main] [36m[][0;39m  [34mINFO[0;39m [33mo.h.Version[0;39m - HHH000412: Hibernate Core {5.0.12.Final}
+[34m2017-09-07 21:50:13[0;39m [main] [36m[][0;39m  [34mINFO[0;39m [33mo.h.c.Environment[0;39m - HHH000206: hibernate.properties not found
+[34m2017-09-07 21:50:13[0;39m [main] [36m[][0;39m  [34mINFO[0;39m [33mo.h.c.Environment[0;39m - HHH000021: Bytecode provider name : javassist
+[34m2017-09-07 21:50:13[0;39m [main] [36m[][0;39m  [34mINFO[0;39m [33mo.h.a.c.Version[0;39m - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+[34m2017-09-07 21:50:13[0;39m [main] [36m[][0;39m  [34mINFO[0;39m [33mo.h.d.Dialect[0;39m - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect

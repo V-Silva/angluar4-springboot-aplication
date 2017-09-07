@@ -1,0 +1,4 @@
+[34m2017-09-07 21:55:09[0;39m [http-nio-8080-exec-1] [36m[Method=GET][0;39m  [34mINFO[0;39m [33mc.a.a.i.LogInterceptor[0;39m - ---------------RESPOND---------------
+[34m2017-09-07 21:55:09[0;39m [http-nio-8080-exec-1] [36m[Method=GET][0;39m  [34mINFO[0;39m [33mc.a.a.i.LogInterceptor[0;39m - Ticket    : 1504796108520
+[34m2017-09-07 21:55:09[0;39m [http-nio-8080-exec-1] [36m[Method=GET][0;39m  [34mINFO[0;39m [33mc.a.a.i.LogInterceptor[0;39m - Duration  : 614 ms
+[34m2017-09-07 21:55:09[0;39m [http-nio-8080-exec-1] [36m[Method=GET][0;39m  [34mINFO[0;39m [33mc.a.a.i.LogInterceptor[0;39m - -------------------------------------

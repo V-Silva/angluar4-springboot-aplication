@@ -1,0 +1,2 @@
+[34m2017-09-07 21:50:15[0;39m [main] [36m[][0;39m  [34mINFO[0;39m [33mo.h.t.h.SchemaUpdate[0;39m - HHH000228: Running hbm2ddl schema update
+[34m2017-09-07 21:50:15[0;39m [main] [36m[][0;39m  [34mINFO[0;39m [33mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
