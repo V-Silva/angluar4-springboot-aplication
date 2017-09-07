@@ -1,2 +1,0 @@
-[34m2017-09-07 21:50:14[0;39m [main] [36m[][0;39m  [34mINFO[0;39m [33mo.h.e.j.e.i.LobCreatorBuilderImpl[0;39m - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
-[34m2017-09-07 21:50:14[0;39m [main] [36m[][0;39m  [34mINFO[0;39m [33mo.h.t.BasicTypeRegistry[0;39m - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@57bd77a

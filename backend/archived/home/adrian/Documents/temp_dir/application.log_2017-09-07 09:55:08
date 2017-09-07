@@ -1,9 +1,0 @@
-[34m2017-09-07 21:55:08[0;39m [http-nio-8080-exec-1] [36m[][0;39m  [34mINFO[0;39m [33mo.a.c.c.C.[.[.[/][0;39m - Initializing Spring FrameworkServlet 'dispatcherServlet'
-[34m2017-09-07 21:55:08[0;39m [http-nio-8080-exec-1] [36m[][0;39m  [34mINFO[0;39m [33mo.s.w.s.DispatcherServlet[0;39m - FrameworkServlet 'dispatcherServlet': initialization started
-[34m2017-09-07 21:55:08[0;39m [http-nio-8080-exec-1] [36m[][0;39m  [34mINFO[0;39m [33mo.s.w.s.DispatcherServlet[0;39m - FrameworkServlet 'dispatcherServlet': initialization completed in 47 ms
-[34m2017-09-07 21:55:08[0;39m [http-nio-8080-exec-1] [36m[Method=GET][0;39m  [34mINFO[0;39m [33mc.a.a.i.LogInterceptor[0;39m - ---------------REQUEST---------------
-[34m2017-09-07 21:55:08[0;39m [http-nio-8080-exec-1] [36m[Method=GET][0;39m  [34mINFO[0;39m [33mc.a.a.i.LogInterceptor[0;39m - Ticket    : 1504796108520
-[34m2017-09-07 21:55:08[0;39m [http-nio-8080-exec-1] [36m[Method=GET][0;39m  [34mINFO[0;39m [33mc.a.a.i.LogInterceptor[0;39m - Path      : /api/customer
-[34m2017-09-07 21:55:08[0;39m [http-nio-8080-exec-1] [36m[Method=GET][0;39m  [34mINFO[0;39m [33mc.a.a.i.LogInterceptor[0;39m - Query     : null
-[34m2017-09-07 21:55:08[0;39m [http-nio-8080-exec-1] [36m[Method=GET][0;39m  [34mINFO[0;39m [33mc.a.a.i.LogInterceptor[0;39m - -------------------------------------
-[34m2017-09-07 21:55:08[0;39m [http-nio-8080-exec-1] [36m[Method=GET][0;39m  [34mINFO[0;39m [33mo.h.h.i.QueryTranslatorFactoryInitiator[0;39m - HHH000397: Using ASTQueryTranslatorFactory

@@ -14,10 +14,8 @@
 			<pattern>${FILE_LOG_PATTERN}</pattern>
 		</encoder>
 		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
-
 			<!-- daily rollover -->
 			<fileNamePattern>${LOG_FILE}_%d{yyyy-MM-dd}</fileNamePattern>
-
 		</rollingPolicy>
 	</appender>
 
