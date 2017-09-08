@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
 
+import com.adrianaden.app.exception.JwtExceptionHandler;
 import com.adrianaden.app.util.JwtUtil;
 
 import lombok.extern.slf4j.Slf4j;
@@ -29,6 +30,7 @@ public class JwtInterceptor implements HandlerInterceptor {
 		String token = httpServletRequest.getHeader(headerAuth);
 		Boolean isValid = token == null ? false : jwtUtil.isValidJWT(token);
 		log.info("Jwt Validation: " + isValid);
+		if(!isValid) throw new JwtExceptionHandler("Unauthorization Token");
 		return isValid;
 	}
 

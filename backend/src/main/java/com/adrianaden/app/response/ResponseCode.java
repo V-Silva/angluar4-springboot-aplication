@@ -1,11 +1,11 @@
 package com.adrianaden.app.response;
 
-public enum ResponseType {
+public enum ResponseCode {
 	SUCCESS(200);
 	
 	private final int value;
 
-    private ResponseType(int value) {
+    private ResponseCode(int value) {
         this.value = value;
     }
     

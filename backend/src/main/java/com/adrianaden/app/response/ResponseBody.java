@@ -1,22 +1,22 @@
 package com.adrianaden.app.response;
 
-public class ResponseEntity {
-	private int responseType;
+public class ResponseBody {
+	private int responseCode;
 	private String messenge;
 	private Object data;
 	
-	public ResponseEntity(ResponseType responseType, String messenge,  Object data) {
-		this.setResponseType(responseType);
+	public ResponseBody(ResponseCode responseCode, String messenge,  Object data) {
+		this.setResponseCode(responseCode);
 		this.setMessenge(messenge);
 		this.setData(data);
 	}
 
-	public int getResponseType() {
-		return responseType;
+	public int getResponseCode() {
+		return responseCode;
 	}
 
-	public void setResponseType(ResponseType responseType) {
-		this.responseType = responseType.getValue();
+	public void setResponseCode(ResponseCode responseCode) {
+		this.responseCode = responseCode.getValue();
 	}
 
 	public String getMessenge() {
