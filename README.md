@@ -1,9 +1,10 @@
 # angluar4-springboot-aplication
 Sample aplication using Angular 4 as Frontend and Sping Boot in the Backend  
 
-#Backend
+Backend
 For backend i'm using spring boot
-##Feature
+
+Backend Feature
 - Spring
 - JPA
 - JWT
